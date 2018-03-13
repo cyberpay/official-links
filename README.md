@@ -11,7 +11,7 @@
 * Block Explorer: https://explorer.btcprivate.org
 * ANN: https://bitcointalk.org/index.php?topic=2675257
 * Github: https://github.com/BTCPrivate
-* CoinMarketCap: TBD
+* CoinMarketCap: https://coinmarketcap.com/currencies/bitcoin-private/#charts
 * Reddit: https://www.reddit.com/r/BitcoinPrivate
 * Twitter: https://twitter.com/bitcoinprivate
 * Telegram News: https://t.me/bitcoinprivatenews
